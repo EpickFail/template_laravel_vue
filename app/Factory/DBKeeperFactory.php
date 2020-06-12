@@ -4,7 +4,7 @@ namespace App\Factory;
 
 use App\Keep\DBKeeper;
 
-Class DBKEeperFactory implements KeeperFactory
+Class DBKeeperFactory implements KeeperFactory
 {
     public static function createKeeper()
     {
