@@ -16,7 +16,7 @@ class FormController extends Controller
      */
     public function index()
     {
-        return Lead::latest()->paginate(5);
+        //
     }
 
     /**
