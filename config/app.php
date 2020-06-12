@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost/form_test'),
+    'url' => env('APP_URL', 'https://quiet-oasis-86589.herokuapp.com/'),
 
     'asset_url' => env('ASSET_URL', null),
 
@@ -119,7 +119,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => env('APP_KEY', $_ENV['APP_KEY']),
 
     'cipher' => 'AES-256-CBC',
 
