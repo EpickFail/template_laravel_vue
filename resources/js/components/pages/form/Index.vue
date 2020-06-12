@@ -31,7 +31,7 @@
         },
         methods: {
             submitForm: function () {
-                axios.post('/form_test/api/form', {
+                axios.post('/api/form', {
                     name: this.name,
                     phone: this.phone,
                     message: this.message
