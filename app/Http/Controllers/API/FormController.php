@@ -4,7 +4,6 @@ namespace App\Http\Controllers\API;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Lead;
 use App\Factory\DBKeeperFactory;
 
 class FormController extends Controller
@@ -27,7 +26,6 @@ class FormController extends Controller
      */
     public function store(Request $request)
     {
-        //return response('hi')->setStatusCode(200, 'Successfully!');
         return DBKeeperFactory::createKeeper()->save($request);
     }
 
