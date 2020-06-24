@@ -2,6 +2,29 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/var/www/html/form_test/config/app.php</file>
+            <file>file:/var/www/html/form_test/app/Factory/KeeperFactory.php</file>
+            <file>file:/var/www/html/form_test/resources/js/app.js</file>
+            <file>file:/var/www/html/form_test/resources/js/components/App.vue</file>
+            <file>file:/var/www/html/form_test/app/Factory/DBKeeperFactory.php</file>
+            <file>file:/var/www/html/form_test/resources/views/app.blade.php</file>
+            <file>file:/var/www/html/form_test/routes/api.php</file>
+            <file>file:/var/www/html/form_test/.env</file>
+            <file>file:/var/www/html/form_test/config/database.php</file>
+            <file>file:/var/www/html/form_test/README.md</file>
+            <file>file:/var/www/html/form_test/public/.htaccess</file>
+            <file>file:/var/www/html/form_test/resources/js/components/pages/form/Index.vue</file>
+            <file>file:/var/www/html/form_test/routes/web.php</file>
+            <file>file:/var/www/html/form_test/app/Keep/DBKeeper.php</file>
+            <file>file:/var/www/html/form_test/.htaccess</file>
+            <file>file:/var/www/html/form_test/app/Http/Controllers/API/FormController.php</file>
+            <file>file:/var/www/html/form_test/.env.example</file>
+            <file>file:/var/www/html/form_test/database/factories/UserFactory.php</file>
+            <file>file:/var/www/html/form_test/database/migrations/2020_06_10_124558_create_leads_table.php</file>
+            <file>file:/var/www/html/form_test/app/Http/Controllers/Controller.php</file>
+            <file>file:/var/www/html/form_test/resources/js/bootstrap.js</file>
+            <file>file:/var/www/html/form_test/app/User.php</file>
+        </group>
     </open-files>
 </project-private>
